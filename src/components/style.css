@@ -1,0 +1,81 @@
+.Whole {
+    background-color: #faf3dd;
+  }
+  .CardContainer {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .CardWrapper {
+    flex: 0 1 300px;
+    margin: 12px;
+    overflow: hidden;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05), 0 0px 10px rgba(0, 0, 0, 0.08);
+    border-radius: 5px;
+    flex-wrap: wrap;
+    min-width: 500px;
+    min-height: 130px;
+    background: #c8d5b9;
+  }
+  .UHeader {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+  }
+  .ColImg {
+    width: 40%;
+    float: left;
+    overflow: hidden;
+  }
+  .ColDetail {
+    width: 60%;
+    float: left;
+  }
+  .Img {
+    height: 180px;
+  }
+  .UserName {
+    font-size: 25px;
+    margin-left: 15px;
+    color: #f6f6f6;
+    display: inline;
+    background: #4a7c59;
+    box-shadow: -2px 0px 0 2px #4a7c59, 2px 0px 0 2px #4a7c59, 0 0 0 2px #4a7c59;
+    border-radius: 8px;
+    text-decoration: none;
+  }
+  .UserUserName {
+    font-size: 20px;
+    margin-left: 15px;
+    color: black;
+    color: #4a7c59;
+  }
+  .UserLocation {
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+  }
+  .UserGender {
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #icons {
+    color: #4a7c59;
+  }
+  .UserMail {
+    font-size: 20px;
+    margin-left: 15px;
+    text-decoration: None;
+    color: black;
+  }
+  .searchBox {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 45%;
+  }
+  

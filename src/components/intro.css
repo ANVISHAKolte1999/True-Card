@@ -1,0 +1,15 @@
+.Top {
+    font-family: "Tahoma", sans-serif;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    background-color: #4a7c59;
+    box-shadow: -2px 0px 0 2px #4a7c59, 2px 0px 0 2px #4a7c59, 0 0 0 2px #4a7c59;
+    border-radius: 15px;
+  }
+  .para {
+    color: #c8d5b9;
+  }
+  
